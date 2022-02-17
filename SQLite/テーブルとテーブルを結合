@@ -1,0 +1,16 @@
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+OUTER JOIN
+--------------------------------------------------------
+
+SELECT
+    カラム
+FROM
+    テーブル名 A
+INNER JOIN
+    テーブル名 B
+ON
+    A.キー = B.キー
+WHERE
+    条件式
